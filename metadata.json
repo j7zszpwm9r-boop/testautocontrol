@@ -1,0 +1,6 @@
+{
+  "name": "AutoControl",
+  "description": "AutoControl - твій автомобіль під повним контролем. Відстежуй витрати, отримуй AI-рекомендації, аналізуй стиль їзди та контролюй технічний стан автомобіля.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
